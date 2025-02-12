@@ -23,21 +23,6 @@ To run the TECO-CNP model, you need to install the following packages:
 - **BLAS**: Basic Linear Algebra Subprograms, a foundational library that provides basic vector and matrix operations.
 - **LAPACKE**: A C interface to LAPACK, which allows easier integration of LAPACK functionality into C/C++ programs.
 
-### Installation Instructions
-
-Depending on your operating system, you can install these packages using the following commands:
-
-#### Ubuntu/Debian:
-```bash
-sudo apt update
-sudo apt install liblapack-dev libblas-dev liblapacke-dev
-
-#### CentOS/RHEL:
-sudo yum install lapack-devel blas-devel
-
-#### macOS (using Homebrew):
-brew install lapack
-
 
 # Create compiled Fortran modules and run model
 To generate the compiled Fortran modules and run model, please execute the  runtecocnp.sh script in your terminal using the following command
