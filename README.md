@@ -39,7 +39,7 @@ sudo yum install lapack-devel blas-devel
 brew install lapack
 
 
-** Create compiled Fortran modules and run model **
+# Create compiled Fortran modules and run model
 To generate the compiled Fortran modules and run model, please execute the  runtecocnp.sh script in your terminal using the following command
 
 ```console
