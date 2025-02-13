@@ -1,4 +1,4 @@
-# TECO-CNP
+# TECO-CNP v1.0
 
 This respository contains the code that accompanies th article (DOI). 
 
