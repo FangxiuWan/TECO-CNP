@@ -1,5 +1,7 @@
 # TECO-CNP v1.0
 
+**This version is only intended for peer review purposes and should not be disseminated or utilized without prior permission**
+
 This respository contains the code that accompanies th article (DOI). 
 
 Please refer to the README file for the steps to follow before running the model.
