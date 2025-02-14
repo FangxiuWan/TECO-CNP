@@ -30,3 +30,6 @@ To generate the compiled Fortran modules and run model, please execute the  runt
 ```console
 @TECO-CNP~: ./runtecocnp.sh
 ```
+
+# State of Input files 
+The example files for driving model is provided, only the format is referable and the data can obtain by corresponding the authors.
