@@ -349,7 +349,7 @@ DO
         NEE_new= Rauto+Rhetero+Rnitrogen+Rphosphorus+store+ExcessC-GPP-add
         NEE_new= Rauto+Rhetero+Rnitrogen+Rphosphorus+ExcessC-GPP
 
-        NEE = NEE_new
+        !NEE = NEE_new
 
         Reco=Rauto+Rhetero
         bmleaf=QC(1)/fbmC
